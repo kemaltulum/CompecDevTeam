@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'Kemal Tulum';
+  x = 5;
+  fruits = ['Elma', 'Armut', 'Karpuz'];
 }
