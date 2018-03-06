@@ -274,3 +274,267 @@
 70,41.089593042651370,29.055165946483612,3,Hayır,Yok,İstanbul/Sarıyer/Rumeli Hisarı,130 m²,3 + 1,950.000 TL
 2,41.085694902632575,29.054475948214530,UNK,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,220 m²,4 + 1,3.800.000 TL
 40,41.084405074284870,29.054750539362427,UNK,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,180 m²,4 + 1,1.650.000 USD
+25,41.092451430614425,29.049353599548340,6,Hayır,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,185 m²,4 + 1,4.500.000 USD
+25,41.092225028182040,29.051327705383300,Çatı Katı,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,280 m²,4 + 1,2.750.000 USD
+19,41.092483773755326,29.045534133911133,Giriş Katı,Hayır,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,180 m²,3 + 1,2.700.000 USD
+40,41.088626741933380,29.055721163749695,Zemin,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,100 m²,2 + 1,860.000 TL
+20,41.087005879696854,29.056779136133173,1,Hayır,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,150 m²,3 + 1,3.000.000 USD
+3,41.085206165794844,29.056091308593750,Villa Katı,Hayır,Kat Kaloriferi,İstanbul/Sarıyer/Rumeli Hisarı,220 m²,4 + 1,3.800.000 TL
+60,41.089661774797060,29.054803848266600,UNK,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,160 m²,5 + 1,690.000 USD
+35,UNK,Bahçe Katı,Hayır,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,140 m²,2 + 1,3.250.000 USD
+29,41.086402983371215,29.056761860847473,3,Hayır,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,162 m²,4 + 1,1.400.000 USD
+38,41.090332920205498,29.056151658296599,2,Hayır,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,260 m²,4 + 1,1.850.000 USD
+25,41.088836984303400,29.055973291397095,2,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,100 m²,2 + 1,1.100.000 TL
+15,41.089217036111230,29.049589633941650,3,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,220 m²,4 + 2,550.000 TL
+35,41.089631792342026,29.055183082236910,3,Hayır,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,162 m²,4 + 1,1.400.000 USD
+30,41.093162976036766,29.049911499023438,UNK,Hayır,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,300 m²,4 + 1,6.000.000 USD
+65,41.087454224070800,29.056615009903907,Giriş Katı,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,780 m²,7 + 3,6.500.000 USD
+25,41.092451430614425,29.049353599548340,6,Hayır,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,185 m²,4 + 1,4.500.000 USD
+25,41.092225028182040,29.051327705383300,Çatı Katı,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,280 m²,4 + 1,2.750.000 USD
+19,41.092483773755326,29.045534133911133,Giriş Katı,Hayır,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,180 m²,3 + 1,2.700.000 USD
+40,41.088626741933380,29.055721163749695,Zemin,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,100 m²,2 + 1,860.000 TL
+20,41.087005879696854,29.056779136133173,1,Hayır,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,150 m²,3 + 1,3.000.000 USD
+3,41.085206165794844,29.056091308593750,Villa Katı,Hayır,Kat Kaloriferi,İstanbul/Sarıyer/Rumeli Hisarı,220 m²,4 + 1,3.800.000 TL
+60,41.089661774797060,29.054803848266600,UNK,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,160 m²,5 + 1,690.000 USD
+35,UNK,Bahçe Katı,Hayır,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,140 m²,2 + 1,3.250.000 USD
+29,41.086402983371215,29.056761860847473,3,Hayır,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,162 m²,4 + 1,1.400.000 USD
+38,41.090332920205498,29.056151658296599,2,Hayır,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,260 m²,4 + 1,1.850.000 USD
+25,41.088836984303400,29.055973291397095,2,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,100 m²,2 + 1,1.100.000 TL
+15,41.089217036111230,29.049589633941650,3,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,220 m²,4 + 2,550.000 TL
+35,41.089631792342026,29.055183082236910,3,Hayır,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,162 m²,4 + 1,1.400.000 USD
+30,41.093162976036766,29.049911499023438,UNK,Hayır,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,300 m²,4 + 1,6.000.000 USD
+65,41.087454224070800,29.056615009903907,Giriş Katı,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,780 m²,7 + 3,6.500.000 USD
+32,41.091922321984930,29.055841545043904,2,Hayır,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,150 m²,3 + 1,3.400.000 USD
+45,41.092063311681240,29.055361747741700,5,Hayır,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,210 m²,4 + 1,2.500.000 USD
+1,41.088990622532990,29.044954776763916,Villa Katı,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,240 m²,4 + 1,1.000.000 USD
+31,41.090510813019720,29.054203033447266,Bahçe Katı,UNK,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,90 m²,2 + 1,1.000.000 USD
+40,41.090866597203260,29.056134223937990,3,Hayır,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,220 m²,4 + 1,1.500.000 USD
+39,41.092257371434420,29.043259620666504,Villa Katı,Hayır,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,350 m²,5 + 1,12.000.000 EUR
+40,41.090607845260800,29.056751132011413,Bahçe Katı,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,280 m²,4 + 1,9.000.000 USD
+35,41.086111867588580,29.056812822818756,3,Hayır,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,165 m²,4 + 1,1.400.000 USD
+20,41.089212993018460,29.049509167671204,3,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,220 m²,4 + 2,550.000 TL
+30,41.091591097270005,29.052542209101375,4,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,240 m²,4 + 1,1.300.000 USD
+35,41.089324851908910,29.056742189568467,UNK,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,150 m²,3 + 1,2.850.000 USD
+19,41.089572827300720,29.048452377319336,UNK,Hayır,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,360 m²,8 + 4,12.000.000 USD
+40,41.089217036111230,29.055747985839844,Villa Katı,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,390 m²,5 + 1,12.000.000 EUR
+0,UNK,UNK,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,220 m²,4 + 1,3.800.000 TL
+31,41.090704877358675,29.056134223937990,3,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,162 m²,4 + 1,1.400.000 USD
+32,41.091922321984930,29.055841545043904,2,Hayır,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,150 m²,3 + 1,3.400.000 USD
+45,41.092063311681240,29.055361747741700,5,Hayır,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,210 m²,4 + 1,2.500.000 USD
+1,41.088990622532990,29.044954776763916,Villa Katı,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,240 m²,4 + 1,1.000.000 USD
+31,41.090510813019720,29.054203033447266,Bahçe Katı,UNK,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,90 m²,2 + 1,1.000.000 USD
+40,41.090866597203260,29.056134223937990,3,Hayır,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,220 m²,4 + 1,1.500.000 USD
+39,41.092257371434420,29.043259620666504,Villa Katı,Hayır,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,350 m²,5 + 1,12.000.000 EUR
+40,41.090607845260800,29.056751132011413,Bahçe Katı,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,280 m²,4 + 1,9.000.000 USD
+35,41.086111867588580,29.056812822818756,3,Hayır,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,165 m²,4 + 1,1.400.000 USD
+20,41.089212993018460,29.049509167671204,3,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,220 m²,4 + 2,550.000 TL
+30,41.091591097270005,29.052542209101375,4,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,240 m²,4 + 1,1.300.000 USD
+35,41.089324851908910,29.056742189568467,UNK,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,150 m²,3 + 1,2.850.000 USD
+19,41.089572827300720,29.048452377319336,UNK,Hayır,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,360 m²,8 + 4,12.000.000 USD
+40,41.089217036111230,29.055747985839844,Villa Katı,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,390 m²,5 + 1,12.000.000 EUR
+0,UNK,UNK,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,220 m²,4 + 1,3.800.000 TL
+31,41.090704877358675,29.056134223937990,3,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,162 m²,4 + 1,1.400.000 USD
+0,41.087781722545200,29.055259823799133,UNK,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,220 m²,4 + 1,4.200.000 TL
+35,41.090801909313210,29.056391716003418,3,Hayır,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,160 m²,3 + 1,1.400.000 USD
+2,41.087106507854680,29.054782390594482,Villa Katı,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,180 m²,4 + 1,3.800.000 TL
+2,41.085497285589910,29.056134223937990,UNK,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,220 m²,4 + 1,3.800.000 TL
+15,41.089330242607790,29.049911499023438,3,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,220 m²,4 + 2,550.000 TL
+25,41.090478468907490,29.056777954101562,UNK,Hayır,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,170 m²,3 + 1,4.500.000 USD
+20,41.089249380844450,29.050941467285156,UNK,Hayır,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,140 m²,3 + 1,4.500.000 USD
+30,41.086742616820880,29.053838253021240,2,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,140 m²,3 + 1,1.500.000 TL
+30,41.089540482726730,29.055297374725342,Bahçe Katı,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,50 m²,1 + 1,595.000 TL
+0,41.088602483155090,29.052057266235350,UNK,Hayır,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,180 m²,3 + 1,3.700.000 USD
+130,41.089427276592420,29.054173529148102,UNK,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,120 m²,3 + 1,2.550.000 TL
+35,41.085060605413695,29.043002128601074,4,Hayır,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,170 m²,4 + 1,1.950.000 TL
+15,41.088651000702700,29.055587053298950,UNK,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,240 m²,5 + 1,2.350.000 TL
+18,41.088408412606310,29.054224491119385,UNK,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,310 m²,5 + 2,5.500.000 TL
+20,41.085416419109535,29.055447578430176,1,UNK,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,85 m²,2 + 1,1.800.000 TL
+0,41.087781722545200,29.055259823799133,UNK,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,220 m²,4 + 1,4.200.000 TL
+35,41.090801909313210,29.056391716003418,3,Hayır,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,160 m²,3 + 1,1.400.000 USD
+2,41.087106507854680,29.054782390594482,Villa Katı,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,180 m²,4 + 1,3.800.000 TL
+2,41.085497285589910,29.056134223937990,UNK,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,220 m²,4 + 1,3.800.000 TL
+15,41.089330242607790,29.049911499023438,3,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,220 m²,4 + 2,550.000 TL
+25,41.090478468907490,29.056777954101562,UNK,Hayır,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,170 m²,3 + 1,4.500.000 USD
+20,41.089249380844450,29.050941467285156,UNK,Hayır,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,140 m²,3 + 1,4.500.000 USD
+30,41.086742616820880,29.053838253021240,2,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,140 m²,3 + 1,1.500.000 TL
+30,41.089540482726730,29.055297374725342,Bahçe Katı,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,50 m²,1 + 1,595.000 TL
+0,41.088602483155090,29.052057266235350,UNK,Hayır,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,180 m²,3 + 1,3.700.000 USD
+130,41.089427276592420,29.054173529148102,UNK,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,120 m²,3 + 1,2.550.000 TL
+35,41.085060605413695,29.043002128601074,4,Hayır,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,170 m²,4 + 1,1.950.000 TL
+15,41.088651000702700,29.055587053298950,UNK,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,240 m²,5 + 1,2.350.000 TL
+18,41.088408412606310,29.054224491119385,UNK,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,310 m²,5 + 2,5.500.000 TL
+20,41.085416419109535,29.055447578430176,1,UNK,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,85 m²,2 + 1,1.800.000 TL
+130,41.091287066936210,29.056649208068848,UNK,Hayır,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,2.500 m²,23 + 5,95.000.000 USD
+40,41.092936576056510,29.054460525512695,2,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,200 m²,3 + 1,2.800.000 USD
+38,41.084727618146580,29.056561625693575,1,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,240 m²,4 + 1,1.350.000 USD
+4,41.092160341629466,29.047122001647950,1,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,220 m²,4 + 1,989.000 USD
+30,41.090316748107570,29.056735038757324,UNK,Hayır,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,162 m²,4 + 1,1.400.000 USD
+30,UNK,3,Hayır,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,162 m²,4 + 1,1.400.000 USD
+30,41.088376067459140,29.047980308532715,UNK,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,1.000 m²,6 + 1,4.000.000 USD
+41,41.089006794957310,29.055683612823486,UNK,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,340 m²,8 + 4,2.600.000 TL
+35,41.092438492995780,29.036586284637450,3,UNK,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,160 m²,3 + 1,1.250.000 USD
+30,41.092774862047484,29.041049479783396,UNK,UNK,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,160 m²,3 + 1,1.250.000 USD
+35,41.088570138103435,29.056348800659180,2,Hayır,Kat Kaloriferi,İstanbul/Sarıyer/Rumeli Hisarı,105 m²,2 + 1,1.100.000 TL
+45,41.088473102852916,29.055833816528320,3,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,210 m²,5 + 1,2.250.000 TL
+35,41.091950109893800,29.040405750274658,3,Hayır,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,160 m²,3 + 1,1.250.000 USD
+12,41.084753310216854,29.056820869445800,2,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,220 m²,4 + 1,3.500.000 USD
+25,41.088370676435190,29.054993391910102,Kot 1,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,100 m²,3 + 1,1.150.000 TL
+130,41.091287066936210,29.056649208068848,UNK,Hayır,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,2.500 m²,23 + 5,95.000.000 USD
+40,41.092936576056510,29.054460525512695,2,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,200 m²,3 + 1,2.800.000 USD
+38,41.084727618146580,29.056561625693575,1,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,240 m²,4 + 1,1.350.000 USD
+4,41.092160341629466,29.047122001647950,1,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,220 m²,4 + 1,989.000 USD
+30,41.090316748107570,29.056735038757324,UNK,Hayır,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,162 m²,4 + 1,1.400.000 USD
+30,UNK,3,Hayır,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,162 m²,4 + 1,1.400.000 USD
+30,41.088376067459140,29.047980308532715,UNK,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,1.000 m²,6 + 1,4.000.000 USD
+41,41.089006794957310,29.055683612823486,UNK,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,340 m²,8 + 4,2.600.000 TL
+35,41.092438492995780,29.036586284637450,3,UNK,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,160 m²,3 + 1,1.250.000 USD
+30,41.092774862047484,29.041049479783396,UNK,UNK,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,160 m²,3 + 1,1.250.000 USD
+35,41.088570138103435,29.056348800659180,2,Hayır,Kat Kaloriferi,İstanbul/Sarıyer/Rumeli Hisarı,105 m²,2 + 1,1.100.000 TL
+45,41.088473102852916,29.055833816528320,3,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,210 m²,5 + 1,2.250.000 TL
+35,41.091950109893800,29.040405750274658,3,Hayır,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,160 m²,3 + 1,1.250.000 USD
+12,41.084753310216854,29.056820869445800,2,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,220 m²,4 + 1,3.500.000 USD
+25,41.088370676435190,29.054993391910102,Kot 1,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,100 m²,3 + 1,1.150.000 TL
+30,41.091545816203600,29.044740200042725,4,Hayır,Kat Kaloriferi,İstanbul/Sarıyer/Rumeli Hisarı,120 m²,3 + 1,2.200.000 TL
+30,41.088181996241620,29.055297374725342,2,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,100 m²,2 + 1,1.175.000 TL
+30,41.092050374418000,29.039375782012940,UNK,UNK,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,160 m²,3 + 1,1.250.000 USD
+35,41.093160954611850,29.054785072803497,Bahçe Katı,Hayır,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,150 m²,3 + 1,3.500.000 USD
+40,41.088958277672390,29.055941104888916,Kot 3,Hayır,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,45 m²,1 + 1,595.000 TL
+40,41.088836984303400,29.055029153823853,2,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,90 m²,2 + 1,1.075.000 TL
+30,41.089249300000000,29.042414000000000,3,Hayır,Kat Kaloriferi,İstanbul/Sarıyer/Rumeli Hisarı,320 m²,5 + 2,1.150.000 USD
+35,41.089055312206370,29.042299389839172,3,Hayır,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,130 m²,3 + 1,1.500.000 TL
+0,41.090252059676130,29.055919647216797,UNK,Hayır,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,367 m²,5 + 1,12.000.000 USD
+4,41.086208906326085,29.046349525451660,UNK,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,90 m²,2 + 1,690.000 TL
+44,41.092354401096070,29.055490493774414,Bahçe Katı,Hayır,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,155 m²,3 + 1,3.500.000 USD
+21,UNK,5,UNK,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,280 m²,3 + 2,3.500.000 USD
+130,41.090737221359454,29.056842327117920,UNK,Hayır,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,2.500 m²,23 + 5,95.000.000 USD
+30,41.088473102852940,29.053448439517524,1,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,120 m²,3 + 1,1.000.000 TL
+25,41.088343722296000,29.055533409118652,UNK,UNK,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,150 m²,3 + 1,1.500.000 USD
+30,41.091545816203600,29.044740200042725,4,Hayır,Kat Kaloriferi,İstanbul/Sarıyer/Rumeli Hisarı,120 m²,3 + 1,2.200.000 TL
+30,41.088181996241620,29.055297374725342,2,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,100 m²,2 + 1,1.175.000 TL
+30,41.092050374418000,29.039375782012940,UNK,UNK,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,160 m²,3 + 1,1.250.000 USD
+35,41.093160954611850,29.054785072803497,Bahçe Katı,Hayır,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,150 m²,3 + 1,3.500.000 USD
+40,41.088958277672390,29.055941104888916,Kot 3,Hayır,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,45 m²,1 + 1,595.000 TL
+40,41.088836984303400,29.055029153823853,2,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,90 m²,2 + 1,1.075.000 TL
+30,41.089249300000000,29.042414000000000,3,Hayır,Kat Kaloriferi,İstanbul/Sarıyer/Rumeli Hisarı,320 m²,5 + 2,1.150.000 USD
+35,41.089055312206370,29.042299389839172,3,Hayır,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,130 m²,3 + 1,1.500.000 TL
+0,41.090252059676130,29.055919647216797,UNK,Hayır,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,367 m²,5 + 1,12.000.000 USD
+4,41.086208906326085,29.046349525451660,UNK,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,90 m²,2 + 1,690.000 TL
+44,41.092354401096070,29.055490493774414,Bahçe Katı,Hayır,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,155 m²,3 + 1,3.500.000 USD
+21,UNK,5,UNK,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,280 m²,3 + 2,3.500.000 USD
+130,41.090737221359454,29.056842327117920,UNK,Hayır,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,2.500 m²,23 + 5,95.000.000 USD
+30,41.088473102852940,29.053448439517524,1,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,120 m²,3 + 1,1.000.000 TL
+25,41.088343722296000,29.055533409118652,UNK,UNK,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,150 m²,3 + 1,1.500.000 USD
+35,41.093227661602114,29.054696559906006,5,UNK,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,180 m²,3 + 1,3.950.000 USD
+30,41.094613210999690,29.053752422332763,3,UNK,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,300 m²,4 + 1,6.500.000 USD
+70,41.089572827300720,29.056692123413086,UNK,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,750 m²,4 + 2,60.000.000 USD
+40,41.086712292477110,29.042130410671234,UNK,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,600 m²,18 + 6,3.000.000 USD
+19,41.091480399923114,29.055625274286285,3,Hayır,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,170 m²,4 + 1,1.275.000 USD
+28,41.088586310631236,29.055147171020508,1,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,240 m²,4 + 1,1.350.000 USD
+20,41.090074166161260,29.051263332366943,UNK,Hayır,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,140 m²,3 + 1,3.500.000 USD
+30,41.090122682622180,29.056005477905273,UNK,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,170 m²,3 + 1,3.500.000 USD
+20,41.092367630832190,29.042169059102890,1,Hayır,Kat Kaloriferi,İstanbul/Sarıyer/Rumeli Hisarı,110 m²,2 + 1,850.000 TL
+30,41.086516194716130,29.052903414121830,3,UNK,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,200 m²,4 + 3,1.550.000 TL
+18,41.085445531843640,29.056370258331300,2,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,120 m²,3 + 1,1.250.000 TL
+70,41.096946974487274,29.047980308532715,UNK,Hayır,Kat Kaloriferi,İstanbul/Sarıyer/Rumeli Hisarı,650 m²,8 + 3,5.500.000 USD
+40,41.093421717915980,29.054031372070312,2,Hayır,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,162 m²,4 + 1,1.400.000 USD
+25,41.086079521310914,29.056767225265503,4,Hayır,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,180 m²,3 + 1,4.500.000 USD
+40,41.090210012062830,29.056054830534777,4,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,220 m²,5 + 3,4.000.000 TL
+35,41.093227661602114,29.054696559906006,5,UNK,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,180 m²,3 + 1,3.950.000 USD
+30,41.094613210999690,29.053752422332763,3,UNK,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,300 m²,4 + 1,6.500.000 USD
+70,41.089572827300720,29.056692123413086,UNK,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,750 m²,4 + 2,60.000.000 USD
+40,41.086712292477110,29.042130410671234,UNK,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,600 m²,18 + 6,3.000.000 USD
+19,41.091480399923114,29.055625274286285,3,Hayır,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,170 m²,4 + 1,1.275.000 USD
+28,41.088586310631236,29.055147171020508,1,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,240 m²,4 + 1,1.350.000 USD
+20,41.090074166161260,29.051263332366943,UNK,Hayır,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,140 m²,3 + 1,3.500.000 USD
+30,41.090122682622180,29.056005477905273,UNK,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,170 m²,3 + 1,3.500.000 USD
+20,41.092367630832190,29.042169059102890,1,Hayır,Kat Kaloriferi,İstanbul/Sarıyer/Rumeli Hisarı,110 m²,2 + 1,850.000 TL
+30,41.086516194716130,29.052903414121830,3,UNK,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,200 m²,4 + 3,1.550.000 TL
+18,41.085445531843640,29.056370258331300,2,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,120 m²,3 + 1,1.250.000 TL
+70,41.096946974487274,29.047980308532715,UNK,Hayır,Kat Kaloriferi,İstanbul/Sarıyer/Rumeli Hisarı,650 m²,8 + 3,5.500.000 USD
+40,41.093421717915980,29.054031372070312,2,Hayır,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,162 m²,4 + 1,1.400.000 USD
+25,41.086079521310914,29.056767225265503,4,Hayır,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,180 m²,3 + 1,4.500.000 USD
+40,41.090210012062830,29.056054830534777,4,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,220 m²,5 + 3,4.000.000 TL
+100,41.090252059676130,29.056520462036133,UNK,UNK,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,3.000 m²,23 + 6,130.000.000 USD
+30,41.087178746855486,29.054190874448977,1,UNK,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,90 m²,2 + 1,1.050.000 TL
+30,41.087383602753790,29.055565595626830,Villa Katı,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,255 m²,4 + 1,2.000.000 USD
+30,41.211028000000000,29.083377000000000,UNK,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,100 m²,2 + 1,980.000 TL
+15,41.089186712909395,29.056095331907272,UNK,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,782 m²,9 + 3,3.000.000 USD
+40,41.090588438873446,29.055717944575008,4,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,220 m²,5 + 3,4.000.000 TL
+40,41.088893587903460,29.053215980529785,1,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,80 m²,2 + 1,1.350.000 TL
+4,41.089491965835926,29.050029516220093,2,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,280 m²,5 + 1,1.900.000 USD
+28,41.089962000000000,29.052925000000000,UNK,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,1.400 m²,5 + 1,3.800.000 USD
+10,41.087211631555924,29.046564102172850,1,Evet,Kat Kaloriferi,İstanbul/Sarıyer/Rumeli Hisarı,120 m²,1 + 1,90.000 TL
+9,41.089405713455996,29.054163694327144,UNK,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,120 m²,3 + 1,2.550.000 TL
+25,41.092807204288900,29.054632186889650,4,UNK,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,250 m²,4 + 1,1.850.000 USD
+50,41.088974450104670,29.056885242462158,UNK,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,330 m²,4 + 2,10.000.000 EUR
+2,41.086192733213110,29.049503803253174,UNK,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,250 m²,4 + 1,3.800.000 USD
+39,41.089087657019180,29.055387564003468,2,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,100 m²,2 + 1,990.000 TL
+100,41.090252059676130,29.056520462036133,UNK,UNK,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,3.000 m²,23 + 6,130.000.000 USD
+30,41.087178746855486,29.054190874448977,1,UNK,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,90 m²,2 + 1,1.050.000 TL
+30,41.087383602753790,29.055565595626830,Villa Katı,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,255 m²,4 + 1,2.000.000 USD
+30,41.211028000000000,29.083377000000000,UNK,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,100 m²,2 + 1,980.000 TL
+15,41.089186712909395,29.056095331907272,UNK,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,782 m²,9 + 3,3.000.000 USD
+40,41.090588438873446,29.055717944575008,4,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,220 m²,5 + 3,4.000.000 TL
+40,41.088893587903460,29.053215980529785,1,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,80 m²,2 + 1,1.350.000 TL
+4,41.089491965835926,29.050029516220093,2,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,280 m²,5 + 1,1.900.000 USD
+28,41.089962000000000,29.052925000000000,UNK,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,1.400 m²,5 + 1,3.800.000 USD
+10,41.087211631555924,29.046564102172850,1,Evet,Kat Kaloriferi,İstanbul/Sarıyer/Rumeli Hisarı,120 m²,1 + 1,90.000 TL
+9,41.089405713455996,29.054163694327144,UNK,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,120 m²,3 + 1,2.550.000 TL
+25,41.092807204288900,29.054632186889650,4,UNK,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,250 m²,4 + 1,1.850.000 USD
+50,41.088974450104670,29.056885242462158,UNK,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,330 m²,4 + 2,10.000.000 EUR
+2,41.086192733213110,29.049503803253174,UNK,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,250 m²,4 + 1,3.800.000 USD
+39,41.089087657019180,29.055387564003468,2,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,100 m²,2 + 1,990.000 TL
+15,41.089303962545630,29.056100696325302,UNK,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,782 m²,9 + 3,3.000.000 USD
+25,41.087060000000000,29.049893999999994,1,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,110 m²,3 + 1,670.000 TL
+40,41.090575501196405,29.056048393249510,UNK,Hayır,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,162 m²,4 + 1,1.300.000 USD
+30,41.092225028182040,29.054857492446900,UNK,Hayır,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,150 m²,3 + 1,3.000.000 USD
+40,41.090898941124400,29.056348800659180,UNK,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,367 m²,5 + 1,12.000.000 EUR
+20,41.089766894410225,29.056649208068848,UNK,Hayır,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,500 m²,6 + 1,4.000.000 USD
+63,41.088562051838025,29.056327342987060,UNK,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,117 m²,2 + 2,5.750.000 TL
+4,41.086988000000000,29.044500999999970,UNK,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,85 m²,2 + 1,690.000 TL
+30,41.088343722296000,29.056434631347656,UNK,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,88 m²,2 + 1,1.100.000 TL
+30,41.088752078811870,29.055452942848206,3,Hayır,Soba,İstanbul/Sarıyer/Rumeli Hisarı,100 m²,2 + 1,1.100.000 TL
+2,41.085694902632575,29.054475948214530,UNK,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,220 m²,4 + 1,3.800.000 TL
+40,41.085400245801530,29.055447578430176,1,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,150 m²,3 + 1,700.000 USD
+30,41.090640189309380,29.047379493713380,UNK,Hayır,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,360 m²,8 + 4,12.000.000 USD
+30,41.087992278023700,29.050513643587237,Villa Katı,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,300 m²,5 + 1,645.000 USD
+30,41.088663888170274,29.054087698459625,UNK,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,120 m²,3 + 1,1.250.000 TL
+15,41.089303962545630,29.056100696325302,UNK,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,782 m²,9 + 3,3.000.000 USD
+25,41.087060000000000,29.049893999999994,1,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,110 m²,3 + 1,670.000 TL
+40,41.090575501196405,29.056048393249510,UNK,Hayır,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,162 m²,4 + 1,1.300.000 USD
+30,41.092225028182040,29.054857492446900,UNK,Hayır,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,150 m²,3 + 1,3.000.000 USD
+40,41.090898941124400,29.056348800659180,UNK,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,367 m²,5 + 1,12.000.000 EUR
+20,41.089766894410225,29.056649208068848,UNK,Hayır,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,500 m²,6 + 1,4.000.000 USD
+63,41.088562051838025,29.056327342987060,UNK,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,117 m²,2 + 2,5.750.000 TL
+4,41.086988000000000,29.044500999999970,UNK,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,85 m²,2 + 1,690.000 TL
+30,41.088343722296000,29.056434631347656,UNK,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,88 m²,2 + 1,1.100.000 TL
+30,41.088752078811870,29.055452942848206,3,Hayır,Soba,İstanbul/Sarıyer/Rumeli Hisarı,100 m²,2 + 1,1.100.000 TL
+2,41.085694902632575,29.054475948214530,UNK,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,220 m²,4 + 1,3.800.000 TL
+40,41.085400245801530,29.055447578430176,1,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,150 m²,3 + 1,700.000 USD
+30,41.090640189309380,29.047379493713380,UNK,Hayır,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,360 m²,8 + 4,12.000.000 USD
+30,41.087992278023700,29.050513643587237,Villa Katı,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,300 m²,5 + 1,645.000 USD
+30,41.088663888170274,29.054087698459625,UNK,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,120 m²,3 + 1,1.250.000 TL
+25,41.086067904066795,29.056742767272908,3,UNK,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,180 m²,4 + 1,5.000.000 USD
+30,41.090118554943910,29.056373275775513,3,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,160 m²,4 + 1,1.400.000 USD
+40,41.088885332392245,29.056762530990454,2,Hayır,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,180 m²,3 + 1,3.000.000 USD
+80,41.087992278023700,29.050513643587237,UNK,Hayır,Yok,İstanbul/Sarıyer/Rumeli Hisarı,255 m²,6 + 1,2.250.000 USD
+30,41.090381436475305,29.056177139282227,UNK,Hayır,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,250 m²,4 + 1,2.500.000 USD
+35,41.088279031922035,29.056928157806396,UNK,UNK,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,175 m²,3 + 1,4.000.000 USD
+10,41.090227801497920,29.055624604225160,UNK,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,250 m²,4 + 2,4.000.000 USD
+25,41.084725317059670,29.054762262666827,3,UNK,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,100 m²,2 + 1,1.650.000 TL
+35,41.090673000000000,29.056091000000000,UNK,UNK,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,230 m²,4 + 1,1.850.000 USD
+70,41.089593042651370,29.055165946483612,3,Hayır,Yok,İstanbul/Sarıyer/Rumeli Hisarı,130 m²,3 + 1,950.000 TL
+40,41.086588973334905,29.042969942092896,UNK,Hayır,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,92 m²,2 + 1,975.000 TL
+40,41.084405074284870,29.054750539362427,UNK,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,180 m²,4 + 1,1.650.000 USD
+25,41.086067904066795,29.056742767272908,3,UNK,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,180 m²,4 + 1,5.000.000 USD
+30,41.090118554943910,29.056373275775513,3,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,160 m²,4 + 1,1.400.000 USD
+40,41.088885332392245,29.056762530990454,2,Hayır,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,180 m²,3 + 1,3.000.000 USD
+80,41.087992278023700,29.050513643587237,UNK,Hayır,Yok,İstanbul/Sarıyer/Rumeli Hisarı,255 m²,6 + 1,2.250.000 USD
+30,41.090381436475305,29.056177139282227,UNK,Hayır,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,250 m²,4 + 1,2.500.000 USD
+35,41.088279031922035,29.056928157806396,UNK,UNK,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,175 m²,3 + 1,4.000.000 USD
+10,41.090227801497920,29.055624604225160,UNK,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,250 m²,4 + 2,4.000.000 USD
+25,41.084725317059670,29.054762262666827,3,UNK,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,100 m²,2 + 1,1.650.000 TL
+35,41.090673000000000,29.056091000000000,UNK,UNK,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,230 m²,4 + 1,1.850.000 USD
+70,41.089593042651370,29.055165946483612,3,Hayır,Yok,İstanbul/Sarıyer/Rumeli Hisarı,130 m²,3 + 1,950.000 TL
+40,41.086588973334905,29.042969942092896,UNK,Hayır,Merkezi,İstanbul/Sarıyer/Rumeli Hisarı,92 m²,2 + 1,975.000 TL
+40,41.084405074284870,29.054750539362427,UNK,Hayır,Kombi,İstanbul/Sarıyer/Rumeli Hisarı,180 m²,4 + 1,1.650.000 USD
