@@ -1,0 +1,6 @@
+form input[type="password"] {
+  width: 250px;
+}
+form input[type="submit"] {
+  margin-left: 2px;
+}
